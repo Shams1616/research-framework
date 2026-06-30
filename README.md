@@ -5,15 +5,8 @@ Assistant Professor of Public Health
 
 *A systems-oriented, exposure-driven framework illustrating how upstream conditions shape population health through interconnected pathways, advanced epidemiologic methods, and evidence translation.*
 
----
 
-<div align="center">
 
-[![View Full Resolution Figure](https://img.shields.io/badge/View%20Full%20Resolution%20Figure-PNG-blue?style=for-the-badge)](research_framework.png)
-
-</div>
-
----
 
 ## Overview
 
